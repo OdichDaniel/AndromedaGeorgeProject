@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="MyAppTheme" parent="@style/_MyAppTheme"/>
+
+  <style name="_MyAppTheme" parent="Theme.AppCompat.Light">
+
+    <item name="android:editTextBackground">@drawable/myapptheme_edit_text_holo_light</item>
+
+    <item name="android:textColorHighlight">#99cc0000</item>
+    <item name="android:textSelectHandleLeft">@drawable/myapptheme_text_select_handle_left</item>
+    <item name="android:textSelectHandleRight">@drawable/myapptheme_text_select_handle_right</item>
+    <item name="android:textSelectHandle">@drawable/myapptheme_text_select_handle_middle</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewMyAppTheme</item>
+
+    <item name="android:listChoiceIndicatorMultiple">@drawable/myapptheme_btn_check_holo_light</item>
+
+    <item name="android:listChoiceIndicatorSingle">@drawable/myapptheme_btn_radio_holo_light</item>
+
+    <item name="android:buttonStyle">@style/ButtonMyAppTheme</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonMyAppTheme</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/SpinnerMyAppTheme</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarMyAppTheme</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarMyAppTheme</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBarMyAppTheme</item>
+
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBigMyAppTheme</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallMyAppTheme</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleMyAppTheme</item>
+
+    <item name="android:listChoiceBackgroundIndicator">@drawable/myapptheme_list_selector_holo_light</item>
+
+    <item name="android:activatedBackgroundIndicator">@drawable/myapptheme_activated_background_holo_light</item>
+
+    <item name="android:fastScrollThumbDrawable">@drawable/myapptheme_fastscroll_thumb_holo</item>
+
+  </style>
+
+</resources>
